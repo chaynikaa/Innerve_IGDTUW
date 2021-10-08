@@ -24,15 +24,16 @@
   background: rgba(204, 197, 197, 0.2);
   color: #fff;
 }
-
 html, body {
   width: 100%;
   height: 100%;
+  background-image: url(http://cms.devoffice.com/coding-demo/jeremyLuis/millenium/pattern-bg.png); */
   background-color: #FFF5EE;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
+
 
 body {
   overflow: hidden;
